@@ -6,12 +6,6 @@
 
 A modern, mobile-first travel planning and community platform built with Next.js that helps users plan trips, share travel experiences, and discover new destinations across Korea with an intuitive interface and interactive maps.
 
-## 🚀 Live Demo
-
-> **Coming Soon!** This project will be deployed to Vercel.
->
-> To deploy your own instance: [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Myophily/yo-travel-showcase)
-
 ## 📖 About This Project
 
 Yo! Travel is a comprehensive Korean travel platform that combines detailed itinerary planning with social sharing features. Born from the need to simplify travel planning while fostering a community of travelers, this application allows users to:
